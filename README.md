@@ -4,7 +4,7 @@ A tool to graphicalize polynomials with thier 1st and 2nd derivatives, made with
 <br/>
 input format is y = n , or y=nx^3 +/- nx^2 +/- nx +/- n, or input without y. <br/>
 examples will be y = 3, x = 3, y=3x, 3x^2, y = 4x^3 + 3x^2 + 2x + 1.
-<br/>
+<br/> <br/>
 Example <br/>
 
 ![Example](/Slope:Derivative.png) <br/>
